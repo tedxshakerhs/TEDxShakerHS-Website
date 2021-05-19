@@ -91,7 +91,6 @@
 #home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(6) {
   background: url("../images/bg-home-6.jpg");}
 
-
 #home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(7) {
   background: url("../images/bg-home-7.jpg");
 }
@@ -103,6 +102,24 @@
 }
 #home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(10) {
   background: url("../images/bg-home-10.jpg");
+}
+#home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(11) {
+  background: url("../images/bg-home-11.jpg");
+}
+#home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(12) {
+  background: url("../images/bg-home-12.jpg");
+}
+#home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(13) {
+  background: url("../images/bg-home-13.jpg");
+}
+#home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(14) {
+  background: url("../images/bg-home-14.jpg");
+}
+#home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(15) {
+  background: url("../images/bg-home-15.jpg");
+}
+#home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(16) {
+  background: url("../images/bg-home-16.jpg");
 }
 
 
@@ -137,6 +154,24 @@
 }
 #home-bg-slider .bg-slider-wrapper .flickity-slider .bg-cover:nth-child(10) {
   background: url("../images/bg-home-10.jpg");
+}
+#home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(11) {
+  background: url("../images/bg-home-11.jpg");
+}
+#home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(12) {
+  background: url("../images/bg-home-12.jpg");
+}
+#home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(13) {
+  background: url("../images/bg-home-13.jpg");
+}
+#home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(14) {
+  background: url("../images/bg-home-14.jpg");
+}
+#home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(15) {
+  background: url("../images/bg-home-15.jpg");
+}
+#home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(16) {
+  background: url("../images/bg-home-16.jpg");
 }
 #home-bg-slideshow .display-table-cell,
 #home-bg-slider .display-table-cell {
